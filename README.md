@@ -29,4 +29,4 @@ Additionally, you will find PNG files named Attention_Layer1_Head1.png, Attentio
 ![Attention_Layer1_Head3](https://github.com/user-attachments/assets/af364048-318f-4001-9bd7-65b2b47c5ec1)
 
 ## License  
-This project is licensed under the MIT License. Feel free to modify and use the code as per your needs!  
+This project is licensed under the MIT License.
