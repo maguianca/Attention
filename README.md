@@ -16,8 +16,8 @@ Generates visual diagrams of attention scores for each attention head in the mod
 Visualizations are saved as PNG files for further analysis.  
 
 ## Example Output
-When running the program, if the input is :
-**The cat sat on the [MASK] and looked around., the output might include predictions like:** 
+When running the program, if the input is :  
+**The cat sat on the [MASK] and looked around.**, the output might include predictions like:  
 
         The cat sat on the mat and looked around.  
         The cat sat on the rug and looked around.  
